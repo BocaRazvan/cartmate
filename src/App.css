@@ -7,7 +7,8 @@
 
 .hero-text-wrap {
   position: relative;
-  height: 17vh;
+  min-height: 17vh;
+  height: auto;
   display: flex;
   align-items: center;
   justify-content: center;
