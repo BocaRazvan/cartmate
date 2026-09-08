@@ -122,14 +122,13 @@ function Login({ onLogin }) {
       <div className="hero-text-wrap">
         <div>
           <h1 className="hero-text">
-            Manage your shopping lists <br></br>with CartMate
+            Manage your shopping lists with CartMate
           </h1>
         </div>
       </div>
       <p className="app-description">
-        Create, share and manage your lists.
-        <br></br> Plan and shop smarter — all with CartMate.
-        <br></br>Join now!
+        Create, share and manage your lists. Plan and shop smarter — all with
+        CartMate. Join now!
       </p>
       <div className="login-card-wrap">
         <div className="login-card">
